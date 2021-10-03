@@ -1,0 +1,88 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}\else
+  \providecommand\doi[1]{\href{https://doi.org/#1}{\nolinkurl{#1}}}\fi
+
+\bibitem[王贞(2012)]{wangJiLeiTouZiZuHeYouHuaMoXingJiQiSuanFa2012}
+王贞.
+\newblock {几类投资组合优化模型及其算法}\allowbreak[D].
+\newblock [出版地不详]: 西安电子科技大学, 2012.
+
+\bibitem[王宗润\ 等(2021)王宗润 and
+  古慧敏]{wangJiYuCVaRFengXianCeDuDeHouHuiZuiXiaoHuaTouZiZuHeMoXing2021}
+王宗润, 古慧敏.
+\newblock
+  {基于CVaR风险测度的后悔最小化投资组合模型}\allowbreak[J/OL].
+\newblock 南昌大学学报(人文社会科学版), 2021, 52\penalty0
+  (03):\penalty0 41-49.
+\newblock DOI: \doi{10.13764/j.cnki.ncds.2021.03.005}.
+
+\bibitem[王晓琴\ 等(2020)王晓琴 and
+  高岳林]{wangKaoLuJiaoYiFeiYongDeJunZhiVaRDuoJieDuanTouZiZuHeYouHuaMoXing2020}
+王晓琴, 高岳林.
+\newblock {考虑交易费用的均值\textendash
+  VaR多阶段投资组合优化模型}\allowbreak[J].
+\newblock 工程数学学报, 2020, 37\penalty0 (06):\penalty0 673-684.
+
+\bibitem[张鹏\ 等(2021)张鹏, 李欣茵, and
+  曾永泉]{zhangJiBenZhiShuZuiXiaoXiaBanFangChaiTouZiZuHeYouHuaYanJiu2021}
+张鹏, 李欣茵, 曾永泉.
+\newblock
+  {基本指数-最小下半方差投资组合优化研究}\allowbreak[J].
+\newblock 华南师范大学学报(自然科学版), 2021, 53\penalty0
+  (03):\penalty0 93-101.
+
+\bibitem[张天铖(2019)]{zhangQiuJieTouZiZuHeYouHuaWenTiDeHunHeErCiGuiHuaHeQiFaShiSuanFa2019}
+张天铖.
+\newblock
+  {求解投资组合优化问题的混合二次规划和启发式算法}\allowbreak[D/OL].
+\newblock 华中科技大学, 2019.
+\newblock DOI: \doi{10.27157/d.cnki.ghzku.2019.003478}.
+
+\bibitem[周新(2020)]{zhouJiYuFengXianDuLiangCVaRDeGuPiaoShiChangTouZiZuHeYouHua2020a}
+周新.
+\newblock
+  {基于风险度量CVaR的股票市场投资组合优化}\allowbreak[D/OL].
+\newblock 大连理工大学, 2020.
+\newblock DOI: \doi{10.26991/d.cnki.gdllu.2020.001464}.
+
+\bibitem[安德鲁.巴里\ 等(2013)安德鲁.巴里 and
+  李雨蒙]{an10ZhiZuiYouQianLiDeGuPiao2013}
+安德鲁.巴里, 李雨蒙.
+\newblock {10只最有潜力的股票}\allowbreak[J].
+\newblock 中国民商, 2013\penalty0 (01):\penalty0 95-96.
+
+\bibitem[刘向莹\ 等(2020)刘向莹 and
+  王忠文]{liuJiYuYinZiFenXiFangFaDeTouZiJieZhiPingGu2020}
+刘向莹, 王忠文.
+\newblock {基于因子分析方法的投资价值评估}\allowbreak[J].
+\newblock 吉林工程技术师范学院学报, 2020, 36\penalty0
+  (12):\penalty0 120-123.
+
+\bibitem[吴雷\ 等(2014)吴雷, 姜昱汐, 李博达, and
+  李刚]{wuJunZhiYuPianDuYueShuXiaCVaRZuiXiaoTouZiZuHeYouHuaMoXingYanJiu2014}
+吴雷, 姜昱汐, 李博达, 等.
+\newblock
+  {均值与偏度约束下CVaR最小投资组合优化模型研究}\allowbreak[J/OL].
+\newblock 财会通讯, 2014\penalty0 (11):\penalty0 37-39.
+\newblock DOI: \doi{10.16144/j.cnki.issn1002-8072.2014.11.022}.
+
+\bibitem[侯胜杰\ 等(2021)侯胜杰, 关忠诚, and
+  董雪璠]{houJiYuShangHeCVaRDeDuoMuBiaoTouZiZuHeMoXingJiShiZhengYanJiu2021}
+侯胜杰, 关忠诚, 董雪璠.
+\newblock
+  {基于熵和CVaR的多目标投资组合模型及实证研究}\allowbreak[J].
+\newblock 系统科学与数学, 2021, 41\penalty0 (03):\penalty0 640-652.
+
+\bibitem[李诗琪(2019)]{liDaiYueShuDeTouZiZuHeYouHuaWenTiDeGaoXiaoJuBuSouSuoYanJiu2019a}
+李诗琪.
+\newblock
+  {带约束的投资组合优化问题的高效局部搜索研究}\allowbreak[D/OL].
+\newblock 华中科技大学, 2019.
+\newblock DOI: \doi{10.27157/d.cnki.ghzku.2019.003479}.
+
+\end{thebibliography}

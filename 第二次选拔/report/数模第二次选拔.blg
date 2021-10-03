@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 数模第二次选拔.aux
+The style file: gbt7714-numerical.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: bib/ref.bib
+Warning--I didn't find a database entry for ""
+You've used 11 entries,
+            4281 wiz_defined-function locations,
+            971 strings with 9268 characters,
+and the built_in function-call counts, 29785 in all, are:
+= -- 1504
+> -- 2179
+< -- 3219
++ -- 1289
+- -- 460
+* -- 509
+:= -- 4683
+add.period$ -- 38
+call.type$ -- 11
+change.case$ -- 11
+chr.to.int$ -- 1089
+cite$ -- 11
+duplicate$ -- 203
+empty$ -- 938
+format.name$ -- 109
+if$ -- 7498
+int.to.chr$ -- 1
+int.to.str$ -- 12
+missing$ -- 0
+newline$ -- 70
+num.names$ -- 33
+pop$ -- 217
+preamble$ -- 1
+purify$ -- 11
+quote$ -- 0
+skip$ -- 2869
+stack$ -- 0
+substring$ -- 2270
+swap$ -- 22
+text.length$ -- 91
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 135
+warning$ -- 0
+while$ -- 132
+width$ -- 0
+write$ -- 170
+(There was 1 warning)

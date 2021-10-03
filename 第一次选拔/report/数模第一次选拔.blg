@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 数模第一次选拔.aux
+The style file: gbt7714-numerical.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: bib/ref.bib
+Warning--I didn't find a database entry for "shenErWeiLiZiFenBuJunYunDuCeSuanFangFaYanJiu1993"
+Warning--I didn't find a database entry for "wuJiYuSeCaiChuanDiDeTuXiangMaSaiKeSuanFaYanJiu2010"
+Warning--empty year in wangJianXieJiLiXiaShuangDanHuangFeiXianXingNengLiangJingDeYouHua
+Warning--empty year in wangJianXieJiLiXiaShuangDanHuangFeiXianXingNengLiangJingDeYouHua
+You've used 13 entries,
+            4281 wiz_defined-function locations,
+            1003 strings with 10188 characters,
+and the built_in function-call counts, 39925 in all, are:
+= -- 1715
+> -- 3439
+< -- 4697
++ -- 1747
+- -- 665
+* -- 579
+:= -- 6154
+add.period$ -- 42
+call.type$ -- 13
+change.case$ -- 17
+chr.to.int$ -- 1504
+cite$ -- 15
+duplicate$ -- 236
+empty$ -- 875
+format.name$ -- 170
+if$ -- 10011
+int.to.chr$ -- 1
+int.to.str$ -- 14
+missing$ -- 0
+newline$ -- 78
+num.names$ -- 39
+pop$ -- 533
+preamble$ -- 1
+purify$ -- 13
+quote$ -- 0
+skip$ -- 3921
+stack$ -- 0
+substring$ -- 2746
+swap$ -- 35
+text.length$ -- 120
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 169
+warning$ -- 2
+while$ -- 173
+width$ -- 0
+write$ -- 201
+(There were 4 warnings)

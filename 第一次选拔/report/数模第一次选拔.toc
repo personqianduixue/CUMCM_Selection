@@ -1,0 +1,31 @@
+\contentsline {section}{\numberline {一、}问题重述}{3}{section.1}%
+\contentsline {section}{\numberline {二、}问题分析}{3}{section.2}%
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题一分析}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题二分析}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题三分析}{3}{subsection.2.3}%
+\contentsline {section}{\numberline {三、}模型假设}{3}{section.3}%
+\contentsline {section}{\numberline {四、}符号说明}{4}{section.4}%
+\contentsline {section}{\numberline {五、}问题一模型}{4}{section.5}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型的建立}{4}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型的求解}{5}{subsection.5.2}%
+\contentsline {section}{\numberline {六、}问题二模型}{6}{section.6}%
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型的建立}{6}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型的求解：数值法}{7}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}模型的近似：近似解析解}{9}{subsection.6.3}%
+\contentsline {section}{\numberline {七、}问题三模型}{10}{section.7}%
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}3-1模型}{10}{subsection.7.1}%
+\contentsline {paragraph}{3-1模型的建立}{10}{section*.11}%
+\contentsline {paragraph}{3-1模型的求解}{11}{section*.13}%
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}3-2模型}{11}{subsection.7.2}%
+\contentsline {paragraph}{3-2模型的建立}{11}{section*.14}%
+\contentsline {paragraph}{3-2模型的求解}{12}{section*.16}%
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}求解方法1：ode15s}{12}{subsubsection.7.2.1}%
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}求解方法2：迭代法+ode45}{12}{subsubsection.7.2.2}%
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}3-2模型求解结果}{13}{subsubsection.7.2.3}%
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}3-2模型的近似解析解}{13}{subsubsection.7.2.4}%
+\contentsline {section}{\numberline {八、}模型的推广}{14}{section.8}%
+\contentsline {section}{\numberline {九、}模型的评价}{16}{section.9}%
+\contentsline {section}{参考文献}{17}{section*.23}%
+\contentsline {section}{附录 \numberline {A}代码文件列表}{19}{appendix.a.A}%
+\contentsline {section}{附录 \numberline {B}代码}{19}{appendix.a.B}%
+\contentsfinish 
